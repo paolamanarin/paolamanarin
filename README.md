@@ -1,5 +1,5 @@
 ## Hi, I'm Paola! 👋
-<br><br>👩🏻‍💻 I am working as a Test Engineer<br>📚 Studied Electronics Engineering in Philippines<br>🤝 I am currently an active Volunteer Analyst at Omdena<br>🎯 Expanding my skills in Data Engineering, AI and Machine Learning<br>
+<br><br>👩🏻‍💻 I am working as a Test Engineer based in Singapore<br>📚 Studied Electronics Engineering <br>🤝 I am currently an active Volunteer Analyst at Omdena<br>🎯 Expanding my skills in Data Engineering, AI and Machine Learning<br>
 
 
 ## 🌐 Socials
